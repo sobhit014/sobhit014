@@ -33,7 +33,7 @@ and Tailwind CSS.
 
 ---
 
-### 🤖 Data Science & Machine Learning  *(Primary Focus)*
+### 🤖 Data Science & Machine Learning---
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -44,7 +44,7 @@ and Tailwind CSS.
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### ⚡ Big Data & Cloud
+### ⚡ Big Data & Cloud---
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -52,20 +52,20 @@ and Tailwind CSS.
 
 ---
 
-### 🎨 Frontend  *(Secondary Focus)*
+### 🎨 Frontend---
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔗 Backend  *(Integration)*
+### 🔗 Backend---
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧰 Tools
+### 🧰 Tools---
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -74,7 +74,7 @@ and Tailwind CSS.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects---
 
 ### 🏏 IPL Data Analysis Pipeline
 **Tech:** PySpark · Apache Spark · Databricks · AWS S3 · Power BI · Matplotlib
@@ -111,7 +111,7 @@ and Tailwind CSS.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus:-
 
 Actively deepening expertise in **Data Science** :
 
@@ -124,7 +124,7 @@ Actively deepening expertise in **Data Science** :
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications & Achievements:-
 
 | | |
 |---|---|
@@ -135,13 +135,4 @@ Actively deepening expertise in **Data Science** :
 | 🏏 | State-level cricket & chess representative |
 
 ---
-
-## 📊 GitHub Stats
-
-![Sobhit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sobhit014&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sobhit014&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
