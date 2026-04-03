@@ -75,6 +75,14 @@ and Tailwind CSS.
 ---
 
 ## 📂 Featured Projects---
+### ❤️ Heart Disease Prediction — ML Case Study
+**Tech:** Python · Pandas · Scikit-learn · Matplotlib · Seaborn
+
+- Performed end-to-end EDA on clinical heart disease dataset to identify key risk factors.
+- Built and compared multiple classification models (Logistic Regression, Random Forest, KNN) with cross-validation.
+- Achieved optimized model performance through hyperparameter tuning; visualized results via ROC curve, confusion matrix, and feature importance plots.
+
+---
 
 ### 🏏 IPL Data Analysis Pipeline
 **Tech:** PySpark · Apache Spark · Databricks · AWS S3 · Power BI · Matplotlib
